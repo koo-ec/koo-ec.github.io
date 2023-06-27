@@ -4,12 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Koorosh Aslansefat. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+My name is Koorosh Aslansefat. I am an assitant professor at School of Computer Science, University of Hull.
 
 ## Biography
 <p align = 'justify'>Koorosh Aslansefat is an Assistant Professor of Computer Science and a member of the Dependable Intelligent System Group (DEIS) in the University of Hull. He received the M.Sc. degree in control engineering from Shahid Beheshti University, Tehran, Iran, in 2014. He got a fellowship with Grant No. 723764 for the EU H2020 project entitled: <a href="https://doi.org/10.3030/723764">GO0D MAN (aGent Oriented Zero Defect Multi-stage mANufacturing)</a> from 2016 to 2018. In 2018, he got a Studentship Award from EDF Energy R&D UK to do a PhD at the University of Hull and have an industrial collaboration with EDF Energy for a project entitled: <b>DREAM (Data-driven Reliability-centred Evolutionary Automated Maintenance for Offshore Wind Farms)</b>. In his PhD career, he managed to get the <a href="https://www.theiet.org/impact-society/awards-scholarships/iet-postgraduate-research-awards/2020-winners/"><b>IET Leslie H. Paddle Award</b></a> for being an Outstanding Researcher for his research works on Real-time dependability evaluation and the DREAM project.
