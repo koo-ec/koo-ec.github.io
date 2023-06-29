@@ -53,7 +53,7 @@ social-network-links:
   email: "k.aslansefat@hull.ac.uk"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: koorosh.aslansefat
-  github: https://github.com/koo-ec
+  github: koo-ec
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
@@ -75,7 +75,7 @@ social-network-links:
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
-#  kaggle: yourname
+  kaggle: kooaslansefat
 #  hackerrank: yourname
 
 # If you want your website to generate an RSS feed, provide a description
