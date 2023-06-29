@@ -9,6 +9,7 @@ comments: false
 ---
 
 Ensuring safety and explainability of machine learning (ML) is a topic of increasing relevance as data-driven applications venture into safety-critical application domains, traditionally committed to high safety standards that are not satisfied with an exclusive testing approach of otherwise inaccessible black-box systems. Especially the interaction between safety and security is a central challenge, as security violations can lead to compromised safety. The contribution of this project to addressing both safety and security within a single concept of protection applicable during the operation of ML systems is active monitoring of the behaviour and the operational context of the data-driven system based on distance measures of the Empirical Cumulative Distribution Function (ECDF). We investigate abstract datasets such as XOR, Spiral, and Circle and some well-known security-specific datasets for intrusion detection of simulated network traffic, using distributional shift detection measures including the Kolmogorov-Smirnov, Kuiper, Anderson-Darling, Wasserstein and mixed Wasserstein-Anderson-Darling measures. Our preliminary findings indicate that the approach can provide a basis for detecting whether the application context of an ML component is valid in the safety-security.
+
 <!--
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
@@ -24,8 +25,8 @@ Here's a useless table:
 | Ten | Eleven | Nine |
 | Seven | Eight | Six |
 | Two | Three | One |
-
-
+-->
+<!--
 How about a yummy crepe?
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
@@ -73,7 +74,8 @@ You can add notification, warning and error boxes like this:
 
 {: .box-warning}
 **Warning:** This is a warning box.
-
+-->
+<!--
 
 ### Error
 
