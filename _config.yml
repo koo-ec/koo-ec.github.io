@@ -21,6 +21,8 @@ author: Koorosh Aslansefat
 
 navbar-links:
   About Me: "aboutme"
+  Projects: "projects"
+  Publications: "publications"
  # Resources:
  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
  #   - Learn markdown: "https://www.markdowntutorial.com/"
@@ -51,15 +53,16 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "k.aslansefat@hull.ac.uk"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: koorosh.aslansefat
+  rss: false  # remove this line if you don't want to show an RSS link at the bottom
+  linkedin: koorosh-aslansefat
   github: koo-ec
+  google-scholar: "YBa4Tl8AAAAJ"
+#  facebook: koorosh.aslansefat
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -73,7 +76,6 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
   kaggle: kooaslansefat
 #  hackerrank: yourname
