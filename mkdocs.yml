@@ -71,6 +71,9 @@ plugins:
 extra_css:
   - assets/stylesheets/academic.css
 
+extra_javascript:
+  - assets/javascripts/ai-links.js
+
 extra:
   social:
     - icon: fontawesome/solid/envelope
