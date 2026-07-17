@@ -15,6 +15,29 @@
   margin-bottom: 0.45rem;
 }
 
+.md-content .md-typeset p,
+.md-content .md-typeset li,
+.md-content .md-typeset dd,
+.md-content .md-typeset td {
+  hyphens: auto;
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.md-content .md-typeset h1,
+.md-content .md-typeset h2,
+.md-content .md-typeset h3,
+.md-content .md-typeset h4,
+.md-content .md-typeset h5,
+.md-content .md-typeset h6,
+.md-content .md-typeset th,
+.md-content .md-typeset pre,
+.md-content .md-typeset code,
+.md-content .md-typeset .md-button,
+.md-content .md-typeset .contact-strip {
+  text-align: start;
+}
+
 .profile-hero {
   align-items: center;
   display: grid;
