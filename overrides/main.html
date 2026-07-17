@@ -1,0 +1,131 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  {% set page_title = config.site_name %}
+  {% if page.meta and page.meta.title %}
+    {% set page_title = page.meta.title ~ " - " ~ config.site_name %}
+  {% elif page.title and not page.is_homepage %}
+    {% set page_title = page.title | striptags ~ " - " ~ config.site_name %}
+  {% endif %}
+  {% set page_description = config.site_description %}
+  {% if page.meta and page.meta.description %}
+    {% set page_description = page.meta.description %}
+  {% endif %}
+  {% set page_url = page.canonical_url if page.canonical_url else config.site_url %}
+  {% set profile_image = config.site_url ~ "assets/images/profile.png" %}
+  <meta name="robots" content="index,follow,max-image-preview:large">
+  <meta name="googlebot" content="index,follow,max-image-preview:large">
+  <meta property="og:type" content="{% if page.is_homepage %}profile{% else %}article{% endif %}">
+  <meta property="og:site_name" content="{{ config.site_name }}">
+  <meta property="og:title" content="{{ page_title }}">
+  <meta property="og:description" content="{{ page_description }}">
+  <meta property="og:url" content="{{ page_url }}">
+  <meta property="og:image" content="{{ profile_image }}">
+  <meta property="og:image:alt" content="Portrait of Dr Koorosh Aslansefat">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ page_title }}">
+  <meta name="twitter:description" content="{{ page_description }}">
+  <meta name="twitter:image" content="{{ profile_image }}">
+  <link rel="author" href="{{ config.site_url }}">
+  <link rel="me" href="https://orcid.org/0000-0001-9318-8177">
+  <link rel="me" href="https://scholar.google.com/citations?user=YBa4Tl8AAAAJ">
+  <link rel="me" href="https://github.com/koo-ec">
+  <link rel="me" href="https://www.linkedin.com/in/koorosh-aslansefat">
+  <link rel="alternate" type="text/markdown" title="LLM guide for {{ config.site_name }}" href="{{ 'llms.txt' | url }}">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://koo-ec.github.io/#koorosh-aslansefat",
+        "name": "Dr Koorosh Aslansefat",
+        "givenName": "Koorosh",
+        "familyName": "Aslansefat",
+        "honorificPrefix": "Dr",
+        "url": "https://koo-ec.github.io/",
+        "image": "https://koo-ec.github.io/assets/images/profile.png",
+        "email": "mailto:k.aslansefat@hull.ac.uk",
+        "jobTitle": "Assistant Professor in Computer Science",
+        "worksFor": {
+          "@type": "CollegeOrUniversity",
+          "name": "University of Hull",
+          "url": "https://www.hull.ac.uk/"
+        },
+        "affiliation": [
+          {
+            "@type": "CollegeOrUniversity",
+            "name": "University of Hull",
+            "url": "https://www.hull.ac.uk/"
+          },
+          {
+            "@type": "Organization",
+            "name": "Dependable Intelligent Systems Lab",
+            "url": "https://github.com/Dependable-Intelligent-Systems-Lab"
+          }
+        ],
+        "sameAs": [
+          "https://orcid.org/0000-0001-9318-8177",
+          "https://scholar.google.com/citations?user=YBa4Tl8AAAAJ",
+          "https://openalex.org/authors/A5008347336",
+          "https://github.com/koo-ec",
+          "https://www.linkedin.com/in/koorosh-aslansefat",
+          "https://www.kaggle.com/kooaslansefat",
+          "https://hull-repository.worktribe.com/person/3724847/koorosh-aslansefat"
+        ],
+        "knowsAbout": [
+          "AI safety",
+          "trustworthy artificial intelligence",
+          "explainable AI",
+          "machine learning dependability",
+          "large language model assurance",
+          "safety-critical systems",
+          "autonomous systems",
+          "digital twins",
+          "uncertainty quantification",
+          "SafeML",
+          "SafeLLM",
+          "SMILE",
+          "XWhy"
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://koo-ec.github.io/#website",
+        "url": "https://koo-ec.github.io/",
+        "name": "Koorosh Aslansefat",
+        "description": {{ config.site_description | tojson }},
+        "author": {
+          "@id": "https://koo-ec.github.io/#koorosh-aslansefat"
+        },
+        "publisher": {
+          "@id": "https://koo-ec.github.io/#koorosh-aslansefat"
+        },
+        "inLanguage": "en-GB"
+      },
+      {
+        "@type": "{% if page.is_homepage %}ProfilePage{% else %}WebPage{% endif %}",
+        "@id": {{ (page_url ~ "#webpage") | tojson }},
+        "url": {{ page_url | tojson }},
+        "name": {{ page_title | tojson }},
+        "description": {{ page_description | tojson }},
+        "isPartOf": {
+          "@id": "https://koo-ec.github.io/#website"
+        },
+        "about": {
+          "@id": "https://koo-ec.github.io/#koorosh-aslansefat"
+        },
+        "author": {
+          "@id": "https://koo-ec.github.io/#koorosh-aslansefat"
+        },
+        "primaryImageOfPage": {
+          "@type": "ImageObject",
+          "url": "https://koo-ec.github.io/assets/images/profile.png"
+        },
+        "inLanguage": "en-GB"
+      }
+    ]
+  }
+  </script>
+{% endblock %}

@@ -1,0 +1,38 @@
+# Koorosh Aslansefat
+
+> Official academic website for Dr Koorosh Aslansefat, Assistant Professor in Computer Science at the University of Hull. Research areas include AI safety, trustworthy machine learning, explainable AI, LLM assurance, dependable autonomous systems, digital twins, SafeML, SafeLLM, SMILE, and XWhy.
+
+## Core Pages
+
+- [Profile and latest news](https://koo-ec.github.io/): Overview, research interests, latest papers, news, contact links.
+- [Research](https://koo-ec.github.io/research/): Main research themes and methods.
+- [Publications](https://koo-ec.github.io/publications/): Selected and automatically updated publication list.
+- [Projects](https://koo-ec.github.io/projects/): Funded projects, Worktribe project records, and open-source work.
+- [Funding](https://koo-ec.github.io/funding/): Funded research portfolio, grants, awards, and fellowships.
+- [Supervision](https://koo-ec.github.io/supervision/): PhD, MSc by Research, and mentoring topics.
+- [Talks](https://koo-ec.github.io/talks/): Invited talks and presentation topics.
+- [Contact](https://koo-ec.github.io/contact/): Authoritative contact and profile links.
+
+## Project Pages
+
+- [AKT TRUST-LLM](https://koo-ec.github.io/projects/akt-trust-llm/): Responsible and trustworthy LLM use for planning-law institutional memory.
+- [KTP Connexin](https://koo-ec.github.io/projects/ktp-connexin/): Speech-to-text, sensor networks, smart speakers, and adult social care.
+- [iCASE QinetiQ](https://koo-ec.github.io/projects/icase-qinetiq/): LLM assurance, hallucination detection, and model correctness.
+- [iCASE QinetiQ via Newcastle](https://koo-ec.github.io/projects/icase-qinetiq-newcastle/): EPSRC iCASE collaboration on knowledge-enhanced LLM assurance.
+- [Digital Twin Offshore Wind](https://koo-ec.github.io/projects/digital-twin-offshore-wind/): Physics-informed digital twins for wind turbine fault diagnosis and prognosis.
+- [Transforming Urban Health](https://koo-ec.github.io/projects/transforming-urban-health/): IoT indoor-air-quality monitoring and citizen empowerment.
+- [Vital Knowledge Exchange](https://koo-ec.github.io/projects/vital-knowledge-exchange/): Responsible AI knowledge exchange between University of Hull and IIT Madras.
+- [Alan Turing Enrichment Award](https://koo-ec.github.io/projects/alan-turing-enrichment/): Postdoctoral enrichment award connected to SafeML.
+
+## External Profiles
+
+- [Google Scholar](https://scholar.google.com/citations?user=YBa4Tl8AAAAJ&hl=en)
+- [ORCID](https://orcid.org/0000-0001-9318-8177)
+- [OpenAlex](https://openalex.org/authors/A5008347336)
+- [Repository@Hull](https://hull-repository.worktribe.com/person/3724847/koorosh-aslansefat)
+- [GitHub](https://github.com/koo-ec)
+- [LinkedIn](https://www.linkedin.com/in/koorosh-aslansefat)
+
+## Full Context
+
+- [LLM full site summary](https://koo-ec.github.io/llms-full.txt): Longer machine-readable research profile, project summaries, keywords, and source priorities.

@@ -1,5 +1,6 @@
 (function () {
   const siteUrl = "https://koo-ec.github.io/";
+  const llmsUrl = "https://koo-ec.github.io/llms.txt";
   const scholarUrl = "https://scholar.google.com/citations?user=YBa4Tl8AAAAJ&hl=en";
   const openAlexUrl = "https://openalex.org/authors/A5008347336";
   const orcidUrl = "https://orcid.org/0000-0001-9318-8177";
@@ -7,6 +8,7 @@
     "Help me learn more about Dr Koorosh Aslansefat.",
     "Use these sources as context:",
     "Personal academic website: " + siteUrl,
+    "LLM-readable site guide: " + llmsUrl,
     "Google Scholar: " + scholarUrl,
     "OpenAlex: " + openAlexUrl,
     "ORCID: " + orcidUrl,
