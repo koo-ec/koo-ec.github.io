@@ -50,6 +50,18 @@ Good fits are students who enjoy both theory and implementation: building method
 
 </div>
 
+
+
+## Latest Papers
+
+<!-- AUTO_PUBLICATIONS_NEWS_START -->
+- **10 Jul 2026** - New preprint: [ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI](https://doi.org/10.48550/arxiv.2607.09649) in arXiv (Cornell University).
+- **03 Jul 2026** - New conference paper: [When Words Move Markets: Interpretable Behavioural and Robustness Analysis of LLMs for Financial Sentiment Reasoning via Local Perturbation Explanations](https://doi.org/10.1007/978-3-032-29532-3_19) in Lecture notes in computer science.
+- **01 Jul 2026** - New preprint: [Bayesian Uncertainty Propagation for Agentic RAG Pipelines: A Proof-of-Concept Study on Multi-Hop Question Answering](https://doi.org/10.48550/arxiv.2607.00972) in arXiv (Cornell University).
+- **28 Apr 2026** - New preprint: [Risk Assessments for Evasive Emergency Maneuvers in Autonomous Vehicles](https://doi.org/10.48550/arxiv.2604.26050) in arXiv (Cornell University).
+- **10 Apr 2026** - New data paper: [A Multi-Modal Dataset for Ground Reaction Force Estimation Using Consumer Wearable Sensors](https://doi.org/10.1038/s41597-026-07183-6) in Scientific Data.
+<!-- AUTO_PUBLICATIONS_NEWS_END -->
+
 ## Latest News
 
 <div class="news-list" markdown>

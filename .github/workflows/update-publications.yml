@@ -1,0 +1,39 @@
+name: Update publications from OpenAlex
+
+on:
+  schedule:
+    - cron: "17 7 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-publications:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+
+      - name: Update publication blocks
+        env:
+          OPENALEX_MAILTO: k.aslansefat@hull.ac.uk
+        run: python tools/update_publications.py
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- docs/index.md docs/publications.md; then
+            echo "No publication updates found."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/index.md docs/publications.md
+          git commit -m "Update publications from OpenAlex"
+          git push
