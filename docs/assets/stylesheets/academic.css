@@ -56,6 +56,53 @@
   background: color-mix(in srgb, var(--academic-accent) 12%, transparent);
 }
 
+.md-sidebar--primary .md-sidebar__scrollwrap {
+  padding-top: 0.9rem;
+}
+
+.md-sidebar--primary .md-nav {
+  background: color-mix(in srgb, var(--academic-accent) 4%, var(--md-default-bg-color));
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.55rem;
+  padding: 0.75rem;
+}
+
+.md-sidebar--primary .md-nav__title {
+  color: var(--md-default-fg-color);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0;
+  margin: 0 0 0.45rem;
+  padding: 0.15rem 0.45rem 0.65rem;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.md-sidebar--primary .md-nav__item {
+  padding: 0;
+}
+
+.md-sidebar--primary .md-nav__link {
+  border-radius: 0.38rem;
+  color: var(--academic-ink);
+  font-size: 0.78rem;
+  margin: 0.05rem 0;
+  padding: 0.38rem 0.52rem;
+  transition: background-color 140ms ease, color 140ms ease, box-shadow 140ms ease;
+}
+
+.md-sidebar--primary .md-nav__link:hover {
+  background: color-mix(in srgb, var(--academic-accent) 9%, transparent);
+  color: var(--academic-accent);
+}
+
+.md-sidebar--primary .md-nav__link--active,
+.md-sidebar--primary .md-nav__link[aria-current="page"] {
+  background: color-mix(in srgb, var(--academic-accent) 14%, transparent);
+  box-shadow: inset 3px 0 0 var(--academic-accent);
+  color: var(--academic-accent);
+  font-weight: 750;
+}
+
 .news-list {
   border-left: 3px solid var(--academic-accent);
   margin: 1rem 0 1.5rem;
@@ -93,6 +140,7 @@
 
 [data-md-color-scheme="slate"] {
   --academic-accent: #2dd4bf;
+  --academic-ink: #d7dde7;
   --academic-panel: #10201f;
 }
 
