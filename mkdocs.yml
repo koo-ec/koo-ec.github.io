@@ -87,6 +87,24 @@ extra_javascript:
   - assets/javascripts/ai-links.js
 
 extra:
+  analytics:
+    provider: google
+    property: G-B04BJW5Z8R
+  consent:
+    title: Cookie consent
+    description: >-
+      This website uses optional Google Analytics cookies to understand
+      which pages are useful and how visitors navigate the site. Analytics
+      is activated only with your consent. You can reject analytics or
+      change your choice at any time.
+    cookies:
+      analytics:
+        name: Google Analytics
+        checked: false
+    actions:
+      - accept
+      - reject
+      - manage
   social:
     - icon: fontawesome/solid/envelope
       link: mailto:k.aslansefat@hull.ac.uk
@@ -104,4 +122,7 @@ extra:
 exclude_docs: |
   README.md
 
-copyright: Copyright &copy; Koorosh Aslansefat
+not_in_nav: |
+  privacy.md
+
+copyright: Copyright &copy; Koorosh Aslansefat &middot; <a href="/privacy/">Privacy</a> &middot; <a href="#__consent">Change cookie settings</a>
