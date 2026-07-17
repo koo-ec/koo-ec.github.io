@@ -2,23 +2,46 @@
 description: PhD supervision and research team information for Dr Koorosh Aslansefat.
 ---
 
-# Supervision
+# Supervision and Mentoring
 
-I supervise PhD students working on trustworthy AI, responsible LLMs, safety-critical ML, fairness, explainability, digital twins, and dependable autonomous systems.
+I supervise and mentor postgraduate researchers working on trustworthy AI, responsible LLMs, safety-critical ML, fairness, explainability, digital twins, EdgeAI, generative AI, and dependable autonomous systems.
 
-## Current Supervision
+## Completed or Near-Completion Students
+
+| Student | Award / route | Topic |
+| --- | --- | --- |
+| Victoria Bessonova | AURA CDT Scholarship | Climate change impacts on the accessibility of offshore structures |
+| Zeinab Dehghani | MSc by Research, self-funded | Addressing explainability of generative AI |
+| Mostafa Anoosha | MSc by Research, self-funded | Vertical Federated Learning and EdgeAI |
+| Kuniko Paxton | DAIM Scholarship | Redefining fairness in ML through a pigment-based approach to skin colour analysis |
+
+## Current First Supervision
 
 | Student | Role | Topic |
 | --- | --- | --- |
-| Kuniko Paxton | First supervisor | Fairness in ML and pigment-based skin analysis |
-| Tooba Ali Zahed | First supervisor | Safe medical LLMs via neuro-symbolic AI |
-| Louis Donaldson | First supervisor | Optimization explainability for offshore wind |
-| Connor Walker | First supervisor | SafeLLM for wind turbine maintenance |
-| Parvin Ghaffarzadeh | First supervisor | ML-based bone health monitoring |
-| Victoria Sherratt | First supervisor | Climate change impact on offshore accessibility |
-| Hari Neupane | Co-supervisor | Responsible large language models |
-| David Molyneux | Co-supervisor | LLM assurance using knowledge graphs |
-| Ankit Nathu | Co-supervisor | Safety evaluation for AI medical devices |
+| Mohadeseh Mollapour | MSc by Research, self-funded | Self-explainable generative AI solutions using SMILE |
+| Shadie Mohammadi | MSc by Research, self-funded | Geo-SMILE for explainability in geospatial and temporal models |
+| Louis Donaldson | AURA Scholarship | OPtimization EXplainability for maintenance scheduling of offshore wind farms |
+
+## Current Co-Supervision
+
+| Student | Partner / route | Topic |
+| --- | --- | --- |
+| Connor Walker | with Yiannis Papadopoulos | SafeLLM: safety monitoring for large language models in offshore wind maintenance |
+| Parvin Ghaffarzadeh | DAIM Scholarship | ML-based remote monitoring to enhance bone health in peri- and post-menopausal women |
+| Hari Neupane | Microsoft | Responsible large language models |
+| Ankit Nathu | Google | Agentic AI safety and scheming detection |
+| Sola Adewumi | Ireland Weather Office | Time-series explainability with SMILE |
+| Razieh Arshadizadeh | CS GTA | Combining SafeML with Bayesian networks and federated learning |
+
+## Mentoring
+
+| Period | Area | Focus |
+| --- | --- | --- |
+| 2023-present | Postgraduate research mentoring | Research design, method development, academic writing, and publication planning |
+| 2023-present | Publication mentoring | Journal, conference, and workshop paper development |
+| 2024-present | Responsible AI research mentoring | SafeML, SafeLLM, SMILE, explainability, fairness, and AI safety |
+| 2024-present | Proposal development mentoring | Project ideas, work packages, impact plans, and funding applications |
 
 ## Prospective Students
 

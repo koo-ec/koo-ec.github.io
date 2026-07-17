@@ -39,9 +39,12 @@ theme:
 nav:
   - Home: index.md
   - Research: research.md
+  - Funding: funding.md
   - Projects: projects.md
   - Publications: publications.md
   - Supervision: supervision.md
+  - Teaching: teaching.md
+  - Service: service.md
   - Talks: talks.md
   - Contact: contact.md
 

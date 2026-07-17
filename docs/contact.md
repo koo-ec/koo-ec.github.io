@@ -17,6 +17,7 @@ University of Hull, United Kingdom
 | LinkedIn | [koorosh-aslansefat](https://www.linkedin.com/in/koorosh-aslansefat) |
 | Kaggle | [kooaslansefat](https://www.kaggle.com/kooaslansefat) |
 | ORCID | [0000-0001-9318-8177](https://orcid.org/0000-0001-9318-8177) |
+| CV | [Download CV](CV.pdf) |
 
 ## Research Enquiries
 

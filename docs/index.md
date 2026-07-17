@@ -12,6 +12,7 @@ description: Academic profile of Dr Koorosh Aslansefat, Assistant Professor in C
 I work on AI safety, trustworthy machine learning, explainable AI, and dependability for safety-critical and autonomous systems. My research develops practical methods, tools, and assurance workflows for using AI responsibly in settings where failure matters.
 
 [Research](research.md){ .md-button .md-button--primary }
+[Funding](funding.md){ .md-button }
 [Publications](publications.md){ .md-button }
 [Download CV](CV.pdf){ .md-button }
 
@@ -53,7 +54,9 @@ Good fits are students who enjoy both theory and implementation: building method
 
 <div class="news-list" markdown>
 
-**2024** - TrustLLM project launched to investigate responsible AI and alignment workflows for legal institutions.
+**2025** - Academic Lead for an Innovate UK project on trustworthy AI agents for incident management with Veracity Healthcare.
+
+**2024-2025** - TrustLLM project launched to investigate responsible and trustworthy LLM use for planning law.
 
 **2024** - SafeLLM work on domain-specific safety monitoring for large language models appeared in *IOP Journal of Physics*.
 
@@ -69,7 +72,8 @@ Good fits are students who enjoy both theory and implementation: building method
 | --- | --- |
 | Research output | 65+ publications across AI safety, dependability, explainability, and safety-critical systems. |
 | Impact | SafeML recommended in German Industry Standard DIN SPEC 92005. |
-| Supervision | PhD supervision across responsible LLMs, medical AI safety, fairness, wind-energy AI, and explainability. |
+| Funding | Approximately £1.237M funded portfolio, including £285K as PI, Academic Lead, or Co-PI and £952K through wider Co-I collaborations. |
+| Supervision | Supervision across responsible LLMs, medical AI safety, fairness, wind-energy AI, generative AI explainability, and EdgeAI. |
 | Open source | SafeML, SafeDrones, XWhy/SMILE, and related dependability tooling. |
 
 ## Contact

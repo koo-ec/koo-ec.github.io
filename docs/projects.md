@@ -38,14 +38,20 @@ description: Research projects, grants, and open-source work by Dr Koorosh Aslan
 
 ## Grants and Collaborations
 
+The full funding portfolio is listed on the [Funding](funding.md) page. Selected collaborations include:
+
 | Role | Project | Partner or funder |
 | --- | --- | --- |
-| PI | TRUST-LLM: Responsible AI for Legal Institutions | Walton & Co |
-| PI | Vital Knowledge Exchange: AI Collaboration | IIT Madras |
-| Co-I | LLM Assurance Framework | EPSRC iCASE and QinetiQ |
-| Co-I | AI Chatbot for Care Homes | Knowledge Transfer Partnership and Connexin |
-| Research Associate | SESAME: Safe Multi-Robot Systems | EU H2020 |
-| Research Assistant | GO0D MAN: Agent-Oriented Manufacturing | EU H2020 |
+| Academic Lead | Trustworthy AI Agent for Incident Management | Innovate UK and Veracity Healthcare |
+| PI | TRUST-LLM: Responsible Use of Safe and Trustworthy LLM for Planning Law | Innovate UK and Walton & Co |
+| PI | OCTOPUS: Mobile Robotic Systems and AI for Monitoring Ports and Estuary Waters | International collaboration with France, Spain, and South Korea |
+| PI | Vital Knowledge Exchange on Responsible AI Projects | UoH-IIT-M and IIT Madras |
+| Co-I | LLM Assurance Framework through SafeML | EPSRC, QinetiQ, and Newcastle University |
+| Co-I | Responsible AI for Care Chatbots | Innovate UK and Connexin |
+| Co-I | National Edge AI Hub for Real Data | EPSRC and 50+ industry partners |
+| Co-I | Supergen Offshore Renewable Energy Impact Hub | EPSRC and 44+ industry partners |
+| Research Associate | SESAME: Secure and Safe Multi-Robot Systems | EU H2020 |
+| Research Assistant | GO0D MAN: Agent-Oriented Zero Defect Manufacturing | EU H2020 |
 
 ## Open Source
 
