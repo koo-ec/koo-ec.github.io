@@ -66,7 +66,7 @@ Good fits are students who enjoy both theory and implementation: building method
 
 <div class="news-list" markdown>
 
-**2025** - Academic Lead for an Innovate UK project on trustworthy AI agents for incident management with Veracity Healthcare.
+**2025** - Academic Lead for an [Innovate UK project on trustworthy AI agents for incident management](https://hull-repository.worktribe.com/project/5154495/ktp-veracity-healthcare-innovate) with [Veracity Healthcare](https://www.veracityhealthcare.org/).
 
 **2024-2025** - TrustLLM project launched to investigate responsible and trustworthy LLM use for planning law.
 

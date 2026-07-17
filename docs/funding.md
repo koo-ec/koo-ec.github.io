@@ -18,7 +18,7 @@ My funded research portfolio spans responsible AI, trustworthy LLMs, safety-crit
 
 | Years | Funder | Project / Award | Partners | Role | Budget |
 | --- | --- | --- | --- | --- | ---: |
-| 2025-2027 | Innovate UK | Trustworthy AI Agent for Incident Management | Veracity Healthcare | Academic Lead | £220K |
+| 2025-2027 | Innovate UK | [Trustworthy AI Agent for Incident Management](https://hull-repository.worktribe.com/project/5154495/ktp-veracity-healthcare-innovate) | [Veracity Healthcare](https://www.veracityhealthcare.org/) | Academic Lead | £220K |
 | 2024-2025 | Innovate UK | AKT: TRUST-LLM: Responsible Use of Safe and Trustworthy LLM for Planning Law | Walton & Co | PI | £35K |
 | 2025-2026 | International Collaboration | OCTOPUS: Mobile Robotic Systems and AI for Monitoring Ports and Estuary Waters | France, Spain, and South Korea | PI | £15K |
 | 2024-2025 | UoH-IIT-M | Vital Knowledge Exchange on Responsible AI Projects | IIT Madras | PI | £15K |
