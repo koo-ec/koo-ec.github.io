@@ -84,6 +84,7 @@ extra_css:
   - assets/stylesheets/academic.css
 
 extra_javascript:
+  - assets/javascripts/academic-nav.js
   - assets/javascripts/ai-links.js
 
 extra:
