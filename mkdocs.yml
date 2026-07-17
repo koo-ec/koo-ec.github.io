@@ -40,7 +40,16 @@ nav:
   - Home: index.md
   - Research: research.md
   - Funding: funding.md
-  - Projects: projects.md
+  - Projects:
+      - Overview: projects/index.md
+      - AKT TRUST-LLM: projects/akt-trust-llm.md
+      - KTP Connexin: projects/ktp-connexin.md
+      - iCASE QinetiQ: projects/icase-qinetiq.md
+      - iCASE QinetiQ via Newcastle: projects/icase-qinetiq-newcastle.md
+      - Digital Twin Offshore Wind: projects/digital-twin-offshore-wind.md
+      - Transforming Urban Health: projects/transforming-urban-health.md
+      - Vital Knowledge Exchange: projects/vital-knowledge-exchange.md
+      - Alan Turing Enrichment Award: projects/alan-turing-enrichment.md
   - Publications: publications.md
   - Supervision: supervision.md
   - Teaching: teaching.md
