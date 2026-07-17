@@ -6,45 +6,20 @@ description: Research projects, grants, collaborations, and open-source work by 
 
 This page brings together selected funded projects, research collaborations, and open-source software connected to dependable, safe, and explainable AI.
 
-## Funded Project Records
+## Project Directory
 
 The projects below are based on the official Repository@Hull Worktribe records for Dr Koorosh Aslansefat.
 
-<div class="grid cards" markdown>
-
-- **[AKT TRUST-LLM](akt-trust-llm.md)**
-
-    Responsible and trustworthy LLMs for legal institutional memory, developed with Walton & Co and funded by Innovate UK.
-
-- **[KTP: Connexin](ktp-connexin.md)**
-
-    Assisted-living speech and sensor integration for adult social care, developed with Connexin through an Innovate UK KTP.
-
-- **[iCASE PhD Studentship with QinetiQ](icase-qinetiq.md)**
-
-    LLM assurance research on hallucination, contradiction, missing knowledge, and model correctness.
-
-- **[iCASE with QinetiQ via Newcastle University](icase-qinetiq-newcastle.md)**
-
-    EPSRC iCASE collaboration on knowledge-enhanced assurance for large language models.
-
-- **[Digital Twin for Offshore Wind Turbine Gearing](digital-twin-offshore-wind.md)**
-
-    Physics-informed digital twins for offshore wind turbine fault diagnosis, prognosis, and maintenance planning.
-
-- **[Transforming Urban Health](transforming-urban-health.md)**
-
-    IoT-enabled indoor air-quality monitoring and citizen-centred health interventions in collaboration with IIT Madras.
-
-- **[Vital Knowledge Exchange Visits](vital-knowledge-exchange.md)**
-
-    Knowledge exchange between the University of Hull and IIT Madras to strengthen responsible AI collaborations.
-
-- **[Alan Turing Institute Post-Doctoral Enrichment Award](alan-turing-enrichment.md)**
-
-    Postdoctoral enrichment support connected to SafeML and machine-learning safety monitoring.
-
-</div>
+| Project | Dates | Role | Funder / Partner | Focus |
+| --- | --- | --- | --- | --- |
+| [AKT TRUST-LLM](akt-trust-llm.md) | 2024 | PI | Innovate UK / Walton & Co | Responsible and trustworthy LLMs for planning-law institutional memory. |
+| [KTP: Connexin](ktp-connexin.md) | 2023-2025 | Co-I | Innovate UK / Connexin | Speech-to-text, sensor networks, smart speakers, and adult social care. |
+| [iCASE PhD Studentship with QinetiQ](icase-qinetiq.md) | 2024-2027 | Co-I / supervisor | EPSRC / Naimuri, a QinetiQ company | LLM assurance, hallucination detection, and model correctness. |
+| [iCASE with QinetiQ via Newcastle University](icase-qinetiq-newcastle.md) | 2024-2027 | Co-I / supervisor | EPSRC / QinetiQ / Newcastle University | Knowledge-enhanced LLM assurance. |
+| [Digital Twin for Offshore Wind Turbine Gearing](digital-twin-offshore-wind.md) | 2024-2025 | Co-I | University of Hull / IIT Madras | Physics-informed digital twins for fault diagnosis and prognosis. |
+| [Transforming Urban Health](transforming-urban-health.md) | 2025 | Co-I | University of Hull / IIT Madras | IoT indoor-air-quality monitoring and citizen-centred health interventions. |
+| [Vital Knowledge Exchange Visits](vital-knowledge-exchange.md) | 2024 | PI | University of Hull / IIT Madras | Responsible AI knowledge exchange and collaboration building. |
+| [Alan Turing Institute Post-Doctoral Enrichment Award](alan-turing-enrichment.md) | 2022 | Awardee | Alan Turing Institute | SafeML and machine-learning safety monitoring. |
 
 ## Grants and Collaborations
 

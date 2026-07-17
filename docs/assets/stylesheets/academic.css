@@ -126,6 +126,22 @@
   font-weight: 750;
 }
 
+@media screen and (min-width: 76.25em) {
+  .md-sidebar--primary .md-nav__item--nested > .md-nav {
+    display: none;
+  }
+
+  .md-sidebar--primary .md-nav__item--nested:hover > .md-nav,
+  .md-sidebar--primary .md-nav__item--nested:focus-within > .md-nav {
+    display: block;
+    max-height: none;
+    opacity: 1;
+    overflow: visible;
+    pointer-events: auto;
+    visibility: visible;
+  }
+}
+
 .ai-learn-panel {
   background: linear-gradient(
     180deg,

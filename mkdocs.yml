@@ -18,7 +18,6 @@ theme:
     code: JetBrains Mono
   features:
     - content.code.copy
-    - navigation.expand
     - navigation.indexes
     - navigation.sections
     - navigation.top
@@ -45,7 +44,7 @@ nav:
   - Research: research.md
   - Funding: funding.md
   - Projects:
-      - Overview: projects/index.md
+      - projects/index.md
       - AKT TRUST-LLM: projects/akt-trust-llm.md
       - KTP Connexin: projects/ktp-connexin.md
       - iCASE QinetiQ: projects/icase-qinetiq.md
