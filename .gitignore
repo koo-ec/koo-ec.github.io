@@ -1,14 +1,12 @@
-# project
-_site
+# MkDocs build output
 site/
-.sass-cache
-.vagrant
 
-# general
+# Python/local tooling
+__pycache__/
+*.pyc
+.venv/
+
+# OS/browser-generated files
 .DS_Store
 Thumbs.db
 ehthumbs.db
-
-Gemfile.lock
-
-beautiful-jekyll-theme-*.gem

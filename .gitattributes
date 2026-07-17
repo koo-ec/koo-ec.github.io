@@ -1,4 +1,4 @@
-# Define standard eol format
+# Define standard text and binary handling
 
 # Web Files
 *.html text eol=lf
@@ -10,39 +10,23 @@
 *.yml text eol=lf
 
 # Git related files
-.gittattributes text eol=lf
+.gitattributes text eol=lf
 .gitignore text eol=lf
 .gitkeep text eol=lf
 
-# Ruby files
-*.rb text eol=lf
-Gemfile text eol=lf
-Gemfile.lock text eol=lf
+# Python files
+*.py text eol=lf
 
-# Github specific fies
-LICENCE text eol=lf
+# GitHub specific files
+LICENSE text eol=lf
 
-# Docker specific files
-Dockerfile text eol=lf
-
-# VSCode files
+# Config files
 *.json text eol=lf
 
-# General multimedia files
+# General media files
 *.jpg binary
 *.jpeg binary
 *.gif binary
 *.png binary
-*.t3x binary
-*.t3d binary
-*.exe binary
-*.data binary
-*.ttf binary
-*.eof binary
-*.eot binary
-*.swf binary
-*.mov binary
-*.mp4 binary
-*.mp3 binary
-*.ogg binary
-*.flv binary
+*.webp binary
+*.pdf binary

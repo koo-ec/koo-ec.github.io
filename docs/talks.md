@@ -7,8 +7,8 @@ description: Selected invited talks and presentations by Dr Koorosh Aslansefat.
 ## Featured Talk
 
 <div class="talk-feature" markdown>
-<a class="talk-feature__poster" href="../assets/images/talks/imperial-xai-seminar-2025.png" target="_blank" rel="noopener">
-  <img src="../assets/images/talks/imperial-xai-seminar-2025.png" alt="Imperial College London XAI Seminar poster for Dr Koorosh Aslansefat">
+<a class="talk-feature__poster" href="../assets/images/talks/imperial-xai-seminar-2025.webp" target="_blank" rel="noopener">
+  <img src="../assets/images/talks/imperial-xai-seminar-2025-thumb.webp" alt="Imperial College London XAI Seminar poster for Dr Koorosh Aslansefat" loading="lazy" decoding="async">
 </a>
 <div class="talk-feature__content" markdown>
 
@@ -17,7 +17,7 @@ description: Selected invited talks and presentations by Dr Koorosh Aslansefat.
 Imperial College London, XAI Seminar<br>
 24 October 2025
 
-[View poster](assets/images/talks/imperial-xai-seminar-2025.png){ .md-button .md-button--primary target="_blank" rel="noopener" }
+[View poster](assets/images/talks/imperial-xai-seminar-2025.webp){ .md-button .md-button--primary target="_blank" rel="noopener" }
 
 </div>
 </div>
