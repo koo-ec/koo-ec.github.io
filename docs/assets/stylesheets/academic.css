@@ -248,6 +248,36 @@
   margin: 0;
 }
 
+.talk-feature {
+  align-items: start;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 0.55rem;
+  display: grid;
+  gap: 1.1rem;
+  grid-template-columns: 12rem minmax(0, 1fr);
+  margin: 0.7rem 0 1.8rem;
+  padding: 1rem;
+}
+
+.talk-feature__poster {
+  border-radius: 0.45rem;
+  box-shadow: 0 0.45rem 1.25rem rgba(15, 23, 42, 0.14);
+  display: block;
+  overflow: hidden;
+}
+
+.talk-feature__poster img {
+  aspect-ratio: 1;
+  display: block;
+  object-fit: cover;
+  width: 100%;
+}
+
+.talk-feature__content p:first-child {
+  font-size: 1rem;
+  margin-top: 0.1rem;
+}
+
 [data-md-color-scheme="slate"] {
   --academic-accent: #2dd4bf;
   --academic-ink: #d7dde7;
@@ -262,6 +292,14 @@
   .profile-hero__image {
     grid-row: 1;
     width: 10rem;
+  }
+
+  .talk-feature {
+    grid-template-columns: 1fr;
+  }
+
+  .talk-feature__poster {
+    max-width: 15rem;
   }
 
   .ai-learn-fab {
