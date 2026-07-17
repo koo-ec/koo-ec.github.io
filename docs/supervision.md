@@ -43,7 +43,7 @@ I supervise and mentor postgraduate researchers working on trustworthy AI, respo
 | 2024-present | Responsible AI research mentoring | SafeML, SafeLLM, SMILE, explainability, fairness, and AI safety |
 | 2024-present | Proposal development mentoring | Project ideas, work packages, impact plans, and funding applications |
 
-## Prospective Students
+## Prospective PhD and MSc by Research Students
 
 I am interested in hearing from students with strong motivation in:
 

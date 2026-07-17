@@ -22,9 +22,9 @@ I work on AI safety, trustworthy machine learning, explainable AI, and dependabi
 
 > "Trustworthy AI is not only about better models. It is about evidence, monitoring, explanation, and responsible deployment."
 
-## Looking for a PhD?
+## Looking for a PhD or MSc by Research?
 
-I welcome enquiries from motivated PhD candidates interested in AI safety, responsible LLMs, multimodal alignment, explainable AI, safety-critical systems, autonomous systems, digital twins, and dependable machine learning.
+I welcome enquiries from motivated PhD and MSc by Research candidates interested in AI safety, responsible LLMs, multimodal alignment, explainable AI, safety-critical systems, autonomous systems, digital twins, and dependable machine learning.
 
 Good fits are students who enjoy both theory and implementation: building methods, evaluating them carefully, and turning research into tools that other engineers and researchers can use.
 
@@ -90,7 +90,7 @@ Good fits are students who enjoy both theory and implementation: building method
 
 ## Contact
 
-For research collaboration, PhD enquiries, invited talks, and academic service, use the links below.
+For research collaboration, PhD or MSc by Research enquiries, invited talks, and academic service, use the links below.
 
 <div class="contact-strip" markdown>
 [Email](mailto:k.aslansefat@hull.ac.uk){ .md-button .md-button--primary }
