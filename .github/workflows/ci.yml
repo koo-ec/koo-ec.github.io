@@ -8,6 +8,7 @@ on:
       - ".github/workflows/ci.yml"
       - "docs/**"
       - "mkdocs.yml"
+      - "overrides/**"
   workflow_dispatch:
 
 permissions:
