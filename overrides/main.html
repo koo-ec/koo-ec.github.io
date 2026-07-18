@@ -117,9 +117,15 @@
         "about": {
           "@id": "https://koo-ec.github.io/#koorosh-aslansefat"
         },
+        {% if page.is_homepage %}
+        "mainEntity": {
+          "@id": "https://koo-ec.github.io/#koorosh-aslansefat"
+        },
+        {% else %}
         "author": {
           "@id": "https://koo-ec.github.io/#koorosh-aslansefat"
         },
+        {% endif %}
         "primaryImageOfPage": {
           "@type": "ImageObject",
           "url": "https://koo-ec.github.io/assets/images/profile.png"
