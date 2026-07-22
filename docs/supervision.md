@@ -10,16 +10,16 @@ I supervise and mentor postgraduate researchers working on trustworthy AI, respo
 
 | Student | Award / route | Topic |
 | --- | --- | --- |
-| Victoria Bessonova | AURA CDT Scholarship | Climate change impacts on the accessibility of offshore structures |
+| Kuniko Paxton | PhD, DAIM Scholarship | Redefining fairness in ML through a pigment-based approach to skin colour analysis |
+| Victoria Bessonova | PhD, AURA CDT Scholarship | Climate change impacts on the accessibility of offshore structures |
 | Zeinab Dehghani | MSc by Research, self-funded | Addressing explainability of generative AI |
 | Mostafa Anoosha | MSc by Research, self-funded | Vertical Federated Learning and EdgeAI |
-| Kuniko Paxton | DAIM Scholarship | Redefining fairness in ML through a pigment-based approach to skin colour analysis |
+| Mohadeseh Mollapour | MSc by Research, self-funded | Self-explainable generative AI solutions using SMILE |
 
 ## Current First Supervision
 
 | Student | Role | Topic |
 | --- | --- | --- |
-| Mohadeseh Mollapour | MSc by Research, self-funded | Self-explainable generative AI solutions using SMILE |
 | Shadie Mohammadi | MSc by Research, self-funded | Geo-SMILE for explainability in geospatial and temporal models |
 | Louis Donaldson | AURA Scholarship | OPtimization EXplainability for maintenance scheduling of offshore wind farms |
 
@@ -27,7 +27,7 @@ I supervise and mentor postgraduate researchers working on trustworthy AI, respo
 
 | Student | Partner / route | Topic |
 | --- | --- | --- |
-| Connor Walker | with Yiannis Papadopoulos | SafeLLM: safety monitoring for large language models in offshore wind maintenance |
+| Connor Walker | AURA CDT Scholarship | SafeLLM: safety monitoring for large language models in offshore wind maintenance |
 | Parvin Ghaffarzadeh | DAIM Scholarship | ML-based remote monitoring to enhance bone health in peri- and post-menopausal women |
 | Hari Neupane | Microsoft | Responsible large language models |
 | Ankit Nathu | Google | Agentic AI safety and scheming detection |
