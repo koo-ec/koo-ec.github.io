@@ -11,6 +11,10 @@ Selected publications are listed below. A full and frequently updated list is av
 <!-- AUTO_PUBLICATIONS_LIST_START -->
 <div class="publication-list" markdown>
 
+**[Edge-First Ground Reaction Force Estimation with Consumer Smartwatches](https://doi.org/10.64898/2026.07.18.739307)**<br>
+Parvin Ghaffarzadeh, Debarati Chakraborty, **Koorosh Aslansefat**, Ali Dostan, Yiannis Papadopoulos<br>
+*bioRxiv (Cold Spring Harbor Laboratory), 2026.* [DOI / source](https://doi.org/10.64898/2026.07.18.739307)
+
 **[ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI](https://doi.org/10.48550/arxiv.2607.09649)**<br>
 Mohadeseh Mollapour, **Koorosh Aslansefat**, Zeinab Dehghani, Bhupesh Kumar Mishra, Tejal Shah, Zhibao Mian<br>
 *arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2607.09649)
@@ -29,7 +33,7 @@ Aliasghar Arab, Milad Khaleghi, **Koorosh Aslansefat**<br>
 
 **[A Multi-Modal Dataset for Ground Reaction Force Estimation Using Consumer Wearable Sensors](https://doi.org/10.1038/s41597-026-07183-6)**<br>
 Parvin Ghaffarzadeh, Debarati Bhunia Chakraborty, **Koorosh Aslansefat**, Ali Dostan, Yiannis Papadopoulos<br>
-*Scientific Data, 2026.* [DOI / source](https://doi.org/10.1038/s41597-026-07183-6)
+*Scientific Data, 2026.* [DOI / source](https://doi.org/10.1038/s41597-026-07183-6) Cited by 1 in OpenAlex.
 
 **[Exploring the Impact of Skin Color on Skin Lesion Segmentation](https://doi.org/10.48550/arxiv.2603.29694)**<br>
 Kuniko Paxton, Medina Kapo, Amila Akagić, **Koorosh Aslansefat**, Dhavalkumar Thakker, Yiannis Papadopoulos<br>
@@ -51,6 +55,10 @@ David Molyneux, Dhavalkumar Thakker, **Koorosh Aslansefat**, Kevin Pimbblet, S P
 Kuniko Paxton, **Koorosh Aslansefat**, Dhavalkumar Thakker, Yiannis Papadopoulos, Tanaya Maslekar<br>
 *IEEE Journal of Biomedical and Health Informatics, 2026.* [DOI / source](https://doi.org/10.1109/jbhi.2026.3652910)
 
+**[Runtime Assurance Monitoring of Machine Learning-Based Battery Electrode Inspection in Manufacturing](https://doi.org/10.2139/ssrn.7154203)**<br>
+Zeinab Dehghani, Hamidreza Farhadi Tolie, **Koorosh Aslansefat**, Erdogan Guk, Mona Faraji Niri<br>
+*SSRN Electronic Journal, 2026.* [DOI / source](https://doi.org/10.2139/ssrn.7154203)
+
 **[Leveraging Generative Models to Produce Safety Artifacts: A Proof-of-Concept for Autonomous Driving](https://doi.org/10.1007/978-3-032-24804-6_29)**<br>
 Zhibao Mian, **Koorosh Aslansefat**<br>
 *Lecture notes in networks and systems, 2026.* [DOI / source](https://doi.org/10.1007/978-3-032-24804-6_29)
@@ -62,14 +70,6 @@ Mostafa Anoosha, Zeinab Dehghani, Kuniko Paxton, **Koorosh Aslansefat**, Dhavalk
 **[Skewness-Guided Pruning of Multimodal Swin Transformers for Federated Skin Lesion Classification on Edge Devices](https://doi.org/10.1145/3773274.3774928)**<br>
 Kuniko Paxton, **Koorosh Aslansefat**, Dhavalkumar Thakker, Yiannis Papadopoulos<br>
 *Conference Paper, 2025.* [DOI / source](https://doi.org/10.1145/3773274.3774928)
-
-**[RAGuard: A Novel Approach for In-Context Safe Retrieval Augmented Generation for LLMs](https://doi.org/10.1007/978-3-032-05073-1_13)**<br>
-Connor Walker, **Koorosh Aslansefat**, Mohammed Naveed Akram, Yiannis Papadopoulos<br>
-*Lecture notes in computer science, 2025.* [DOI / source](https://doi.org/10.1007/978-3-032-05073-1_13) Cited by 2 in OpenAlex.
-
-**[Safer Skin Lesion Classification with Global Class Activation Probability Map Evaluation and SafeML](https://doi.org/10.1007/978-3-032-05073-1_10)**<br>
-Kuniko Paxton, **Koorosh Aslansefat**, Amila Akagić, Dhavalkumar Thakker, Yiannis Papadopoulos<br>
-*Lecture notes in computer science, 2025.* [DOI / source](https://doi.org/10.1007/978-3-032-05073-1_10)
 
 </div>
 
