@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://koorosh-aslansefat.com/sitemap.xml
+Sitemap: https://koo-ec.github.io/sitemap.xml
