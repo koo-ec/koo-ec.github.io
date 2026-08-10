@@ -47,13 +47,13 @@ Mostafa Anoosha, Dhavalkumar Thakker, Kuniko Paxton, **Koorosh Aslansefat**, Bhu
 Zeinab Dehghani, Rameez Raja Kureshi, **Koorosh Aslansefat**, Faezeh Alsadat Abedi, Dhavalkumar Thakker, Lisa Greaves, Bhupesh Kumar Mishra, Baseer Ahmad, et al.<br>
 *arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2603.23625)
 
-**[No Trust Without Assurance: Establishing a Shared Vocabulary for AI Risk Domains](https://doi.org/10.2139/ssrn.6636919)**<br>
-David Molyneux, Dhavalkumar Thakker, **Koorosh Aslansefat**, Kevin Pimbblet, S Pengelly, Zac Baker-Amaral<br>
-*SSRN Electronic Journal, 2026.* [DOI / source](https://doi.org/10.2139/ssrn.6636919)
-
 **[Enhancing Fairness in Skin Lesion Classification for Medical Diagnosis Using Prune Learning](https://doi.org/10.1109/jbhi.2026.3652910)**<br>
 Kuniko Paxton, **Koorosh Aslansefat**, Dhavalkumar Thakker, Yiannis Papadopoulos, Tanaya Maslekar<br>
 *IEEE Journal of Biomedical and Health Informatics, 2026.* [DOI / source](https://doi.org/10.1109/jbhi.2026.3652910)
+
+**[No Trust Without Assurance: Establishing a Shared Vocabulary for AI Risk Domains](https://doi.org/10.2139/ssrn.6636919)**<br>
+David Molyneux, Dhavalkumar Thakker, **Koorosh Aslansefat**, Kevin Pimbblet, S Pengelly, Zac Baker-Amaral<br>
+*SSRN Electronic Journal, 2026.* [DOI / source](https://doi.org/10.2139/ssrn.6636919)
 
 **[Runtime Assurance Monitoring of Machine Learning-Based Battery Electrode Inspection in Manufacturing](https://doi.org/10.2139/ssrn.7154203)**<br>
 Zeinab Dehghani, Hamidreza Farhadi Tolie, **Koorosh Aslansefat**, Erdogan Guk, Mona Faraji Niri<br>
