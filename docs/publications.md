@@ -65,7 +65,7 @@ Zhibao Mian, **Koorosh Aslansefat**<br>
 
 **[HybridVFL: Disentangled Feature Learning for Edge-Enabled Vertical Federated Multimodal Classification](https://doi.org/10.1145/3773274.3774931)**<br>
 Mostafa Anoosha, Zeinab Dehghani, Kuniko Paxton, **Koorosh Aslansefat**, Dhavalkumar Thakker<br>
-*Conference Paper, 2025.* [DOI / source](https://doi.org/10.1145/3773274.3774931)
+*Conference Paper, 2025.* [DOI / source](https://doi.org/10.1145/3773274.3774931) Cited by 1 in OpenAlex.
 
 **[Skewness-Guided Pruning of Multimodal Swin Transformers for Federated Skin Lesion Classification on Edge Devices](https://doi.org/10.1145/3773274.3774928)**<br>
 Kuniko Paxton, **Koorosh Aslansefat**, Dhavalkumar Thakker, Yiannis Papadopoulos<br>
