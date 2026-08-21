@@ -30,6 +30,10 @@ description: Leadership, editorial service, grant reviewing, and academic citize
 
 ## Conference Organisation
 
+- Tutorial Chair for [The 16th International Conference on the Internet of Things (IoT 2026)](https://iot-conference.org/iot2026/), Newcastle upon Tyne, United Kingdom, 17–20 November 2026.
+- Organising Committee Member for the [Demystifying Agentic AI & AI Agents Workshop](https://aichemy.ac.uk/event/demystifying-agentic-ai-ai-agents-workshop/), University of Leeds, United Kingdom, 23 September 2026.
+- Technical Program Committee Member for the [Safe, Secure and Robust AI (S2RAI) Track](https://sites.google.com/view/s2rai-sac26/home) at the 41st ACM/SIGAPP Symposium on Applied Computing (SAC 2026), Thessaloniki, Greece, 23–27 March 2026.
+- Technical Program Committee Member for the [Safe, Secure and Robust AI (S2RAI) Track](https://sites.google.com/view/s2rai-sac25) at the 40th ACM/SIGAPP Symposium on Applied Computing (SAC 2025), Catania, Sicily, Italy, 31 March–4 April 2025.
 - Program Committee for the International Workshop on Artificial Intelligence Safety Engineering.
 - Program Committee for the International Symposium on Model-Based Safety and Assessment.
 - Organising Committee for the Yorkshire Innovation in Science and Engineering Conference.
