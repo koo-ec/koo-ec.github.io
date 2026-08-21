@@ -1,6 +1,6 @@
 (function () {
-  const siteUrl = "https://koo-ec.github.io/";
-  const llmsUrl = "https://koo-ec.github.io/llms.txt";
+  const siteUrl = "https://koorosh-aslansefat.com/reddit/";
+  const llmsUrl = "https://koorosh-aslansefat.com/reddit/llms.txt";
   const scholarUrl = "https://scholar.google.com/citations?user=YBa4Tl8AAAAJ&hl=en";
   const openAlexUrl = "https://openalex.org/authors/A5008347336";
   const orcidUrl = "https://orcid.org/0000-0001-9318-8177";

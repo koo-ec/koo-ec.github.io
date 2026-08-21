@@ -386,6 +386,26 @@
   padding: 0.25rem 0 0.25rem 0.9rem;
 }
 
+.reddit-marker {
+  color: var(--md-default-fg-color--light);
+  font-size: 0.72rem;
+  letter-spacing: 0.08em;
+  text-align: center;
+  text-transform: lowercase;
+}
+
+.reddit-marker--top {
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  margin-bottom: 1.2rem;
+  padding-bottom: 0.45rem;
+}
+
+.reddit-marker--bottom {
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+  margin-top: 2rem;
+  padding-top: 0.45rem;
+}
+
 .timeline {
   border-left: 2px solid var(--md-default-fg-color--lightest);
   display: grid;

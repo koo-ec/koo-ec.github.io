@@ -1,27 +1,27 @@
 (function () {
   const projectLinks = [
-    ["All projects", "/projects/"],
-    ["AKT TRUST-LLM", "/projects/akt-trust-llm/"],
-    ["KTP Connexin", "/projects/ktp-connexin/"],
-    ["iCASE QinetiQ", "/projects/icase-qinetiq/"],
-    ["iCASE QinetiQ via Newcastle", "/projects/icase-qinetiq-newcastle/"],
-    ["Digital Twin Offshore Wind", "/projects/digital-twin-offshore-wind/"],
-    ["Transforming Urban Health", "/projects/transforming-urban-health/"],
-    ["Vital Knowledge Exchange", "/projects/vital-knowledge-exchange/"],
-    ["Alan Turing Enrichment Award", "/projects/alan-turing-enrichment/"]
+    ["All projects", "/reddit/projects/"],
+    ["AKT TRUST-LLM", "/reddit/projects/akt-trust-llm/"],
+    ["KTP Connexin", "/reddit/projects/ktp-connexin/"],
+    ["iCASE QinetiQ", "/reddit/projects/icase-qinetiq/"],
+    ["iCASE QinetiQ via Newcastle", "/reddit/projects/icase-qinetiq-newcastle/"],
+    ["Digital Twin Offshore Wind", "/reddit/projects/digital-twin-offshore-wind/"],
+    ["Transforming Urban Health", "/reddit/projects/transforming-urban-health/"],
+    ["Vital Knowledge Exchange", "/reddit/projects/vital-knowledge-exchange/"],
+    ["Alan Turing Enrichment Award", "/reddit/projects/alan-turing-enrichment/"]
   ];
 
   const navLinks = [
-    ["Home", "/"],
-    ["Research", "/research/"],
-    ["Funding", "/funding/"],
-    ["Projects", "/projects/", projectLinks],
-    ["Publications", "/publications/"],
-    ["Supervision", "/supervision/"],
-    ["Teaching", "/teaching/"],
-    ["Service", "/service/"],
-    ["Talks", "/talks/"],
-    ["Contact", "/contact/"]
+    ["Home", "/reddit/"],
+    ["Research", "/reddit/research/"],
+    ["Funding", "/reddit/funding/"],
+    ["Projects", "/reddit/projects/", projectLinks],
+    ["Publications", "/reddit/publications/"],
+    ["Supervision", "/reddit/supervision/"],
+    ["Teaching", "/reddit/teaching/"],
+    ["Service", "/reddit/service/"],
+    ["Talks", "/reddit/talks/"],
+    ["Contact", "/reddit/contact/"]
   ];
 
   function currentPath() {
@@ -34,8 +34,8 @@
 
   function isActive(href) {
     const path = currentPath();
-    if (href === "/") {
-      return path === "/";
+    if (href === "/reddit/") {
+      return path === "/reddit/";
     }
     return path === href || path.startsWith(href);
   }

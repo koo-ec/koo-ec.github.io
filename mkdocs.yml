@@ -1,6 +1,6 @@
 site_name: Koorosh Aslansefat
 site_description: Academic website of Dr Koorosh Aslansefat, Assistant Professor in Computer Science at the University of Hull.
-site_url: https://koo-ec.github.io/
+site_url: https://koorosh-aslansefat.com/reddit/
 site_author: Dr Koorosh Aslansefat
 repo_url: https://github.com/koo-ec/koo-ec.github.io
 repo_name: koo-ec/koo-ec.github.io
@@ -126,4 +126,4 @@ exclude_docs: |
 not_in_nav: |
   privacy.md
 
-copyright: Copyright &copy; Koorosh Aslansefat &middot; <a href="/privacy/">Privacy</a> &middot; <a href="#__consent">Change cookie settings</a>
+copyright: Copyright &copy; Koorosh Aslansefat &middot; <a href="/reddit/privacy/">Privacy</a> &middot; <a href="#__consent">Change cookie settings</a>
