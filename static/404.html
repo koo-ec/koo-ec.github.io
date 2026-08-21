@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex">
+    <title>Redirecting - Koorosh Aslansefat</title>
+  </head>
+  <body>
+    <p>Redirecting to the requested page.</p>
+    <script>
+      (function () {
+        var path = window.location.pathname;
+        var target;
+
+        if (path === "/reddit/publication" || path === "/reddit/publication/") {
+          target = "/reddit/publications/";
+        } else if (!path.startsWith("/reddit/")) {
+          target = "/reddit" + (path.startsWith("/") ? path : "/" + path);
+        } else {
+          target = "/reddit/";
+        }
+
+        window.location.replace(target + window.location.search + window.location.hash);
+      })();
+    </script>
+  </body>
+</html>

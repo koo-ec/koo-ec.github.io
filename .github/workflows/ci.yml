@@ -6,9 +6,16 @@ on:
       - master
     paths:
       - ".github/workflows/ci.yml"
+      - "CNAME"
       - "docs/**"
       - "mkdocs.yml"
       - "overrides/**"
+      - "static/**"
+  workflow_run:
+    workflows:
+      - Update publications from OpenAlex
+    types:
+      - completed
   workflow_dispatch:
 
 permissions:
@@ -22,6 +29,7 @@ concurrency:
 
 jobs:
   build:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -41,7 +49,11 @@ jobs:
 
       - name: Build website
         run: |
-          mkdocs build --strict --site-dir site
+          mkdocs build --strict --site-dir site/reddit
+          cp static/index.html site/index.html
+          cp static/404.html site/404.html
+          cp docs/robots.txt site/robots.txt
+          cp CNAME site/CNAME
           touch site/.nojekyll
 
       - name: Upload Pages artifact
