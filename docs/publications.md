@@ -33,7 +33,7 @@ Aliasghar Arab, Milad Khaleghi, **Koorosh Aslansefat**<br>
 
 **[A Multi-Modal Dataset for Ground Reaction Force Estimation Using Consumer Wearable Sensors](https://doi.org/10.1038/s41597-026-07183-6)**<br>
 Parvin Ghaffarzadeh, Debarati Bhunia Chakraborty, **Koorosh Aslansefat**, Ali Dostan, Yiannis Papadopoulos<br>
-*Scientific Data, 2026.* [DOI / source](https://doi.org/10.1038/s41597-026-07183-6) Cited by 1 in OpenAlex.
+*Scientific Data, 2026.* [DOI / source](https://doi.org/10.1038/s41597-026-07183-6) Cited by 2 in OpenAlex.
 
 **[Exploring the Impact of Skin Color on Skin Lesion Segmentation](https://doi.org/10.48550/arxiv.2603.29694)**<br>
 Kuniko Paxton, Medina Kapo, Amila Akagić, **Koorosh Aslansefat**, Dhavalkumar Thakker, Yiannis Papadopoulos<br>
@@ -55,13 +55,13 @@ Kuniko Paxton, **Koorosh Aslansefat**, Dhavalkumar Thakker, Yiannis Papadopoulos
 David Molyneux, Dhavalkumar Thakker, **Koorosh Aslansefat**, Kevin Pimbblet, S Pengelly, Zac Baker-Amaral<br>
 *SSRN Electronic Journal, 2026.* [DOI / source](https://doi.org/10.2139/ssrn.6636919)
 
-**[Runtime Assurance Monitoring of Machine Learning-Based Battery Electrode Inspection in Manufacturing](https://doi.org/10.2139/ssrn.7154203)**<br>
-Zeinab Dehghani, Hamidreza Farhadi Tolie, **Koorosh Aslansefat**, Erdogan Guk, Mona Faraji Niri<br>
-*SSRN Electronic Journal, 2026.* [DOI / source](https://doi.org/10.2139/ssrn.7154203)
-
 **[Leveraging Generative Models to Produce Safety Artifacts: A Proof-of-Concept for Autonomous Driving](https://doi.org/10.1007/978-3-032-24804-6_29)**<br>
 Zhibao Mian, **Koorosh Aslansefat**<br>
 *Lecture notes in networks and systems, 2026.* [DOI / source](https://doi.org/10.1007/978-3-032-24804-6_29)
+
+**[Runtime Assurance Monitoring of Machine Learning-Based Battery Electrode Inspection in Manufacturing](https://doi.org/10.2139/ssrn.7154203)**<br>
+Zeinab Dehghani, Hamidreza Farhadi Tolie, **Koorosh Aslansefat**, Erdogan Guk, Mona Faraji Niri<br>
+*SSRN Electronic Journal, 2026.* [DOI / source](https://doi.org/10.2139/ssrn.7154203)
 
 **[HybridVFL: Disentangled Feature Learning for Edge-Enabled Vertical Federated Multimodal Classification](https://doi.org/10.1145/3773274.3774931)**<br>
 Mostafa Anoosha, Zeinab Dehghani, Kuniko Paxton, **Koorosh Aslansefat**, Dhavalkumar Thakker<br>
