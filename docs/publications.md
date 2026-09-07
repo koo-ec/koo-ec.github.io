@@ -11,6 +11,14 @@ Selected publications are listed below. A full and frequently updated list is av
 <!-- AUTO_PUBLICATIONS_LIST_START -->
 <div class="publication-list" markdown>
 
+**[An Intelligent Safety‐Driven Design and Verification of ECG Telehealth Systems: A Model‐Based Approach and Case Study](https://doi.org/10.1002/qre.70375)**<br>
+Septavera Sharvia, Anuoluwapo Akintoye, **Koorosh Aslansefat**, Yiannis Papadopoulos, Seyed‐Ali Sadegh‐Zadeh<br>
+*Quality and Reliability Engineering International, 2026.* [DOI / source](https://doi.org/10.1002/qre.70375)
+
+**[EcoFair: Energy-efficient inference routing for edge AI under data degradation](https://doi.org/10.1016/j.adhoc.2026.104403)**<br>
+Mostafa Anoosha, Dhavalkumar Thakker, Kuniko Paxton, **Koorosh Aslansefat**, Bhupesh Kumar Mishra, Baseer Ahmad, Rameez Raja Kureshi<br>
+*Ad Hoc Networks, 2026.* [DOI / source](https://doi.org/10.1016/j.adhoc.2026.104403)
+
 **[Edge-First Ground Reaction Force Estimation with Consumer Smartwatches](https://doi.org/10.64898/2026.07.18.739307)**<br>
 Parvin Ghaffarzadeh, Debarati Chakraborty, **Koorosh Aslansefat**, Ali Dostan, Yiannis Papadopoulos<br>
 *bioRxiv (Cold Spring Harbor Laboratory), 2026.* [DOI / source](https://doi.org/10.64898/2026.07.18.739307)
@@ -62,14 +70,6 @@ Zhibao Mian, **Koorosh Aslansefat**<br>
 **[Runtime Assurance Monitoring of Machine Learning-Based Battery Electrode Inspection in Manufacturing](https://doi.org/10.2139/ssrn.7154203)**<br>
 Zeinab Dehghani, Hamidreza Farhadi Tolie, **Koorosh Aslansefat**, Erdogan Guk, Mona Faraji Niri<br>
 *SSRN Electronic Journal, 2026.* [DOI / source](https://doi.org/10.2139/ssrn.7154203)
-
-**[HybridVFL: Disentangled Feature Learning for Edge-Enabled Vertical Federated Multimodal Classification](https://doi.org/10.1145/3773274.3774931)**<br>
-Mostafa Anoosha, Zeinab Dehghani, Kuniko Paxton, **Koorosh Aslansefat**, Dhavalkumar Thakker<br>
-*Conference Paper, 2025.* [DOI / source](https://doi.org/10.1145/3773274.3774931) Cited by 1 in OpenAlex.
-
-**[Skewness-Guided Pruning of Multimodal Swin Transformers for Federated Skin Lesion Classification on Edge Devices](https://doi.org/10.1145/3773274.3774928)**<br>
-Kuniko Paxton, **Koorosh Aslansefat**, Dhavalkumar Thakker, Yiannis Papadopoulos<br>
-*Conference Paper, 2025.* [DOI / source](https://doi.org/10.1145/3773274.3774928)
 
 </div>
 
