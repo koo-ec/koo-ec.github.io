@@ -47,10 +47,6 @@ Parvin Ghaffarzadeh, Debarati Bhunia Chakraborty, **Koorosh Aslansefat**, Ali Do
 Kuniko Paxton, Medina Kapo, Amila Akagić, **Koorosh Aslansefat**, Dhavalkumar Thakker, Yiannis Papadopoulos<br>
 *arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2603.29694)
 
-**[EcoFair: Trustworthy and Energy-Aware Routing for Privacy-Preserving Vertically Partitioned Medical Inference](https://doi.org/10.48550/arxiv.2603.26483)**<br>
-Mostafa Anoosha, Dhavalkumar Thakker, Kuniko Paxton, **Koorosh Aslansefat**, Bhupesh Kumar Mishra, Baseer Ahmad, Rameez Raja Kureshi<br>
-*arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2603.26483)
-
 **[Evaluating a Multi-Agent Voice-Enabled Smart Speaker for Care Homes: A Safety-Focused Framework](https://doi.org/10.48550/arxiv.2603.23625)**<br>
 Zeinab Dehghani, Rameez Raja Kureshi, **Koorosh Aslansefat**, Faezeh Alsadat Abedi, Dhavalkumar Thakker, Lisa Greaves, Bhupesh Kumar Mishra, Baseer Ahmad, et al.<br>
 *arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2603.23625)
@@ -70,6 +66,10 @@ Zhibao Mian, **Koorosh Aslansefat**<br>
 **[Runtime Assurance Monitoring of Machine Learning-Based Battery Electrode Inspection in Manufacturing](https://doi.org/10.2139/ssrn.7154203)**<br>
 Zeinab Dehghani, Hamidreza Farhadi Tolie, **Koorosh Aslansefat**, Erdogan Guk, Mona Faraji Niri<br>
 *SSRN Electronic Journal, 2026.* [DOI / source](https://doi.org/10.2139/ssrn.7154203)
+
+**[What Words Drive the Edit? IE-SMILE for Model-Agnostic Explainability of Instruction-Based Image Editing](https://doi.org/10.2139/ssrn.7411560)**<br>
+Zeinab Dehghani, **Koorosh Aslansefat**, Hamed Daneshvar, Mojgan Hashemian, Adil Khan, Adıń Ramıŕez Rivera, Franky George, Muhammad Khalid, et al.<br>
+*SSRN Electronic Journal, 2026.* [DOI / source](https://doi.org/10.2139/ssrn.7411560)
 
 </div>
 
