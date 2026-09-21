@@ -11,6 +11,10 @@ Selected publications are listed below. A full and frequently updated list is av
 <!-- AUTO_PUBLICATIONS_LIST_START -->
 <div class="publication-list" markdown>
 
+**[From Computational Chemistry to Generative Models: A Survey of AI-Driven Small-Molecule Drug Discovery](https://doi.org/10.26434/chemrxiv.15008163/v3)**<br>
+Houman Kazemzadeh, Kiarash Mokhtari, Seyed Reza Tavakoli, Nazanin Mirzaei, Ali Reza Keivanimehr, Shayan Majidifar, Ali Behrad, Farbod Davoodi, et al.<br>
+*ChemRxiv, 2026.* [DOI / source](https://doi.org/10.26434/chemrxiv.15008163/v3)
+
 **[An Intelligent Safety‐Driven Design and Verification of ECG Telehealth Systems: A Model‐Based Approach and Case Study](https://doi.org/10.1002/qre.70375)**<br>
 Septavera Sharvia, Anuoluwapo Akintoye, **Koorosh Aslansefat**, Yiannis Papadopoulos, Seyed‐Ali Sadegh‐Zadeh<br>
 *Quality and Reliability Engineering International, 2026.* [DOI / source](https://doi.org/10.1002/qre.70375)
@@ -66,10 +70,6 @@ Zhibao Mian, **Koorosh Aslansefat**<br>
 **[Runtime Assurance Monitoring of Machine Learning-Based Battery Electrode Inspection in Manufacturing](https://doi.org/10.2139/ssrn.7154203)**<br>
 Zeinab Dehghani, Hamidreza Farhadi Tolie, **Koorosh Aslansefat**, Erdogan Guk, Mona Faraji Niri<br>
 *SSRN Electronic Journal, 2026.* [DOI / source](https://doi.org/10.2139/ssrn.7154203)
-
-**[What Words Drive the Edit? IE-SMILE for Model-Agnostic Explainability of Instruction-Based Image Editing](https://doi.org/10.2139/ssrn.7411560)**<br>
-Zeinab Dehghani, **Koorosh Aslansefat**, Hamed Daneshvar, Mojgan Hashemian, Adil Khan, Adıń Ramıŕez Rivera, Franky George, Muhammad Khalid, et al.<br>
-*SSRN Electronic Journal, 2026.* [DOI / source](https://doi.org/10.2139/ssrn.7411560)
 
 </div>
 
