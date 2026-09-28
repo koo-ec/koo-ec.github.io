@@ -16,16 +16,24 @@ Houman Kazemzadeh, Kiarash Mokhtari, Seyed Reza Tavakoli, Nazanin Mirzaei, Ali R
 *ChemRxiv, 2026.* [DOI / source](https://doi.org/10.26434/chemrxiv.15008163/v3)
 
 **[An Intelligent Safety‐Driven Design and Verification of ECG Telehealth Systems: A Model‐Based Approach and Case Study](https://doi.org/10.1002/qre.70375)**<br>
-Septavera Sharvia, Anuoluwapo Akintoye, **Koorosh Aslansefat**, Yiannis Papadopoulos, Seyed‐Ali Sadegh‐Zadeh<br>
+Septavera Sharvia, Anuoluwapo Akintoye, **Koorosh Aslansefat**, Yiannis I. Papadopoulos, Seyed‐Ali Sadegh‐Zadeh<br>
 *Quality and Reliability Engineering International, 2026.* [DOI / source](https://doi.org/10.1002/qre.70375)
+
+**[Runtime Uncertainty Monitoring for LLM-Based Multi-agent Systems Using Bayesian Networks](https://doi.org/10.1007/978-3-032-35506-5_53)**<br>
+Bart Custers, **Koorosh Aslansefat**<br>
+*Lecture notes in computer science, 2026.* [DOI / source](https://doi.org/10.1007/978-3-032-35506-5_53)
 
 **[EcoFair: Energy-efficient inference routing for edge AI under data degradation](https://doi.org/10.1016/j.adhoc.2026.104403)**<br>
 Mostafa Anoosha, Dhavalkumar Thakker, Kuniko Paxton, **Koorosh Aslansefat**, Bhupesh Kumar Mishra, Baseer Ahmad, Rameez Raja Kureshi<br>
 *Ad Hoc Networks, 2026.* [DOI / source](https://doi.org/10.1016/j.adhoc.2026.104403)
 
-**[Edge-First Ground Reaction Force Estimation with Consumer Smartwatches](https://doi.org/10.64898/2026.07.18.739307)**<br>
-Parvin Ghaffarzadeh, Debarati Chakraborty, **Koorosh Aslansefat**, Ali Dostan, Yiannis Papadopoulos<br>
-*bioRxiv (Cold Spring Harbor Laboratory), 2026.* [DOI / source](https://doi.org/10.64898/2026.07.18.739307)
+**[Human-Centered Explainable AI for TinyML Edge Devices: A Pareto-Based Selection Framework with LLM-Guided Design](https://doi.org/10.48550/arxiv.2608.07091)**<br>
+Zeinab Dehghani, Dhavalkumar Thakker, **Koorosh Aslansefat**, Kuniko Paxton, Bhupesh Kumar Mishra, Baseer Ahmad, Rameez Raja Kureshi<br>
+*arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2608.07091)
+
+**[Data Safety: Synthetic Data Quality Analysis Using CIFAKE Dataset](https://doi.org/10.48550/arxiv.2607.12165)**<br>
+Kuniko Paxton, Amila Akagić, **Koorosh Aslansefat**, Dhavalkumar Thakker, Yiannis Papadopoulos<br>
+*arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2607.12165)
 
 **[ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI](https://doi.org/10.48550/arxiv.2607.09649)**<br>
 Mohadeseh Mollapour, **Koorosh Aslansefat**, Zeinab Dehghani, Bhupesh Kumar Mishra, Tejal Shah, Zhibao Mian<br>
@@ -44,32 +52,24 @@ Aliasghar Arab, Milad Khaleghi, **Koorosh Aslansefat**<br>
 *arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2604.26050)
 
 **[A Multi-Modal Dataset for Ground Reaction Force Estimation Using Consumer Wearable Sensors](https://doi.org/10.1038/s41597-026-07183-6)**<br>
-Parvin Ghaffarzadeh, Debarati Bhunia Chakraborty, **Koorosh Aslansefat**, Ali Dostan, Yiannis Papadopoulos<br>
+Parvin Ghaffarzadeh, Debarati Bhunia Chakraborty, **Koorosh Aslansefat**, Ali Dostan, Yiannis I. Papadopoulos<br>
 *Scientific Data, 2026.* [DOI / source](https://doi.org/10.1038/s41597-026-07183-6) Cited by 2 in OpenAlex.
 
 **[Exploring the Impact of Skin Color on Skin Lesion Segmentation](https://doi.org/10.48550/arxiv.2603.29694)**<br>
-Kuniko Paxton, Medina Kapo, Amila Akagić, **Koorosh Aslansefat**, Dhavalkumar Thakker, Yiannis Papadopoulos<br>
+Kuniko Paxton, Medina Kapo, Amila Akagić, **Koorosh Aslansefat**, Dhavalkumar Thakker, Yiannis I. Papadopoulos<br>
 *arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2603.29694)
 
 **[Evaluating a Multi-Agent Voice-Enabled Smart Speaker for Care Homes: A Safety-Focused Framework](https://doi.org/10.48550/arxiv.2603.23625)**<br>
-Zeinab Dehghani, Rameez Raja Kureshi, **Koorosh Aslansefat**, Faezeh Alsadat Abedi, Dhavalkumar Thakker, Lisa Greaves, Bhupesh Kumar Mishra, Baseer Ahmad, et al.<br>
+Zeinab Dehghani, Rameez Raja Kureshi, **Koorosh Aslansefat**, Faezeh Alsadat Abedi, Dhavalkumar Thakker, Lisa Greaves, Bhupesh Kumar Mishra, Baseer U. Ahmad, et al.<br>
 *arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2603.23625)
 
 **[Enhancing Fairness in Skin Lesion Classification for Medical Diagnosis Using Prune Learning](https://doi.org/10.1109/jbhi.2026.3652910)**<br>
-Kuniko Paxton, **Koorosh Aslansefat**, Dhavalkumar Thakker, Yiannis Papadopoulos, Tanaya Maslekar<br>
-*IEEE Journal of Biomedical and Health Informatics, 2026.* [DOI / source](https://doi.org/10.1109/jbhi.2026.3652910)
+Kuniko Paxton, **Koorosh Aslansefat**, Dhavalkumar Thakker, Yiannis I. Papadopoulos, Tanaya Maslekar<br>
+*IEEE Journal of Biomedical and Health Informatics, 2026.* [DOI / source](https://doi.org/10.1109/jbhi.2026.3652910) Cited by 1 in OpenAlex.
 
-**[No Trust Without Assurance: Establishing a Shared Vocabulary for AI Risk Domains](https://doi.org/10.2139/ssrn.6636919)**<br>
-David Molyneux, Dhavalkumar Thakker, **Koorosh Aslansefat**, Kevin Pimbblet, S Pengelly, Zac Baker-Amaral<br>
-*SSRN Electronic Journal, 2026.* [DOI / source](https://doi.org/10.2139/ssrn.6636919)
-
-**[Leveraging Generative Models to Produce Safety Artifacts: A Proof-of-Concept for Autonomous Driving](https://doi.org/10.1007/978-3-032-24804-6_29)**<br>
-Zhibao Mian, **Koorosh Aslansefat**<br>
-*Lecture notes in networks and systems, 2026.* [DOI / source](https://doi.org/10.1007/978-3-032-24804-6_29)
-
-**[Runtime Assurance Monitoring of Machine Learning-Based Battery Electrode Inspection in Manufacturing](https://doi.org/10.2139/ssrn.7154203)**<br>
-Zeinab Dehghani, Hamidreza Farhadi Tolie, **Koorosh Aslansefat**, Erdogan Guk, Mona Faraji Niri<br>
-*SSRN Electronic Journal, 2026.* [DOI / source](https://doi.org/10.2139/ssrn.7154203)
+**[Edge-First Ground Reaction Force Estimation with Consumer Smartwatches](https://doi.org/10.1109/mic.2026.3732395)**<br>
+Parvin Ghaffarzadeh, Debarati Chakraborty, **Koorosh Aslansefat**, Ali Dostan, Yiannis Papadopoulos<br>
+*IEEE Internet Computing, 2026.* [DOI / source](https://doi.org/10.1109/mic.2026.3732395)
 
 </div>
 

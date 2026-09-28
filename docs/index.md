@@ -57,9 +57,9 @@ Good fits are students who enjoy both theory and implementation: building method
 <!-- AUTO_PUBLICATIONS_NEWS_START -->
 - **17 Sep 2026** - New preprint: [From Computational Chemistry to Generative Models: A Survey of AI-Driven Small-Molecule Drug Discovery](https://doi.org/10.26434/chemrxiv.15008163/v3) in ChemRxiv.
 - **03 Sep 2026** - New article: [An Intelligent Safety‐Driven Design and Verification of ECG Telehealth Systems: A Model‐Based Approach and Case Study](https://doi.org/10.1002/qre.70375) in Quality and Reliability Engineering International.
+- **02 Sep 2026** - New conference paper: [Runtime Uncertainty Monitoring for LLM-Based Multi-agent Systems Using Bayesian Networks](https://doi.org/10.1007/978-3-032-35506-5_53) in Lecture notes in computer science.
 - **01 Sep 2026** - New article: [EcoFair: Energy-efficient inference routing for edge AI under data degradation](https://doi.org/10.1016/j.adhoc.2026.104403) in Ad Hoc Networks.
-- **21 Jul 2026** - New preprint: [Edge-First Ground Reaction Force Estimation with Consumer Smartwatches](https://doi.org/10.64898/2026.07.18.739307) in bioRxiv (Cold Spring Harbor Laboratory).
-- **10 Jul 2026** - New preprint: [ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI](https://doi.org/10.48550/arxiv.2607.09649) in arXiv (Cornell University).
+- **07 Aug 2026** - New preprint: [Human-Centered Explainable AI for TinyML Edge Devices: A Pareto-Based Selection Framework with LLM-Guided Design](https://doi.org/10.48550/arxiv.2608.07091) in arXiv (Cornell University).
 <!-- AUTO_PUBLICATIONS_NEWS_END -->
 
 ## Latest News
