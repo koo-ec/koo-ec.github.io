@@ -60,7 +60,7 @@ Kuniko Paxton, Medina Kapo, Amila Akagić, **Koorosh Aslansefat**, Dhavalkumar T
 *arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2603.29694)
 
 **[Evaluating a Multi-Agent Voice-Enabled Smart Speaker for Care Homes: A Safety-Focused Framework](https://doi.org/10.48550/arxiv.2603.23625)**<br>
-Zeinab Dehghani, Rameez Raja Kureshi, **Koorosh Aslansefat**, Faezeh Alsadat Abedi, Dhavalkumar Thakker, Lisa Greaves, Bhupesh Kumar Mishra, Baseer U. Ahmad, et al.<br>
+Zeinab Dehghani, Rameez Raja Kureshi, **Koorosh Aslansefat**, Faezeh Alsadat Abedi, Dhavalkumar Thakker, Lisa Greaves, Bhupesh Kumar Mishra, Baseer Ahmad, et al.<br>
 *arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2603.23625)
 
 **[Enhancing Fairness in Skin Lesion Classification for Medical Diagnosis Using Prune Learning](https://doi.org/10.1109/jbhi.2026.3652910)**<br>
