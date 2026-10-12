@@ -47,6 +47,10 @@ Sania Verma, **Koorosh Aslansefat**, Joyjit Chatterjee, Akash Marar, Anu Mehra, 
 Louis Donaldson, Connor Walker, **Koorosh Aslansefat**, Yiannis Papadopoulos<br>
 *arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2607.00972)
 
+**[Mitigating Illumination-Induced Domain Shift in Night-Time Pedestrian Detection for Intelligent Vehicles using Annotation-Preserving Diffusion Augmentation](https://doi.org/10.48550/arxiv.2605.16406)**<br>
+Franky George, Muhammad Nouman Khalid, Adil Khan, **Koorosh Aslansefat**<br>
+*arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2605.16406)
+
 **[Risk Assessments for Evasive Emergency Maneuvers in Autonomous Vehicles](https://doi.org/10.48550/arxiv.2604.26050)**<br>
 Aliasghar Arab, Milad Khaleghi, **Koorosh Aslansefat**<br>
 *arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2604.26050)
@@ -66,10 +70,6 @@ Zeinab Dehghani, Rameez Raja Kureshi, **Koorosh Aslansefat**, Faezeh Alsadat Abe
 **[Enhancing Fairness in Skin Lesion Classification for Medical Diagnosis Using Prune Learning](https://doi.org/10.1109/jbhi.2026.3652910)**<br>
 Kuniko Paxton, **Koorosh Aslansefat**, Dhavalkumar Thakker, Yiannis I. Papadopoulos, Tanaya Maslekar<br>
 *IEEE Journal of Biomedical and Health Informatics, 2026.* [DOI / source](https://doi.org/10.1109/jbhi.2026.3652910) Cited by 1 in OpenAlex.
-
-**[Edge-First Ground Reaction Force Estimation with Consumer Smartwatches](https://doi.org/10.1109/mic.2026.3732395)**<br>
-Parvin Ghaffarzadeh, Debarati Chakraborty, **Koorosh Aslansefat**, Ali Dostan, Yiannis Papadopoulos<br>
-*IEEE Internet Computing, 2026.* [DOI / source](https://doi.org/10.1109/mic.2026.3732395)
 
 </div>
 
