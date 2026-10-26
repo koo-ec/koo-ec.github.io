@@ -55,11 +55,11 @@ Good fits are students who enjoy both theory and implementation: building method
 ## Latest Papers
 
 <!-- AUTO_PUBLICATIONS_NEWS_START -->
+- **22 Oct 2026** - New software: [EMRM V&V Framework: HARA-STPA-FSM Scenario Validation](https://doi.org/10.5281/zenodo.23568668) in Zenodo (CERN European Organization for Nuclear Research).
 - **13 Oct 2026** - New article: [Concept-Based Explainable AI in Retinal Imaging: Core Concepts, Techniques, and Challenges](https://doi.org/10.1007/s10278-026-02391-3) in Journal of Imaging Informatics in Medicine.
 - **17 Sep 2026** - New preprint: [From Computational Chemistry to Generative Models: A Survey of AI-Driven Small-Molecule Drug Discovery](https://doi.org/10.26434/chemrxiv.15008163/v3) in ChemRxiv.
 - **03 Sep 2026** - New article: [An Intelligent Safety‐Driven Design and Verification of ECG Telehealth Systems: A Model‐Based Approach and Case Study](https://doi.org/10.1002/qre.70375) in Quality and Reliability Engineering International.
 - **02 Sep 2026** - New conference paper: [Runtime Uncertainty Monitoring for LLM-Based Multi-agent Systems Using Bayesian Networks](https://doi.org/10.1007/978-3-032-35506-5_53) in Lecture notes in computer science.
-- **01 Sep 2026** - New article: [EcoFair: Energy-efficient inference routing for edge AI under data degradation](https://doi.org/10.1016/j.adhoc.2026.104403) in Ad Hoc Networks.
 <!-- AUTO_PUBLICATIONS_NEWS_END -->
 
 ## Latest News

@@ -11,6 +11,10 @@ Selected publications are listed below. A full and frequently updated list is av
 <!-- AUTO_PUBLICATIONS_LIST_START -->
 <div class="publication-list" markdown>
 
+**[EMRM V&V Framework: HARA-STPA-FSM Scenario Validation](https://doi.org/10.5281/zenodo.23568668)**<br>
+Aliasghar Arab, Milad Khaleghi, **Koorosh Aslansefat**, Yashar Mousavi, Alireza Abbaspour<br>
+*Zenodo (CERN European Organization for Nuclear Research), 2026.* [DOI / source](https://doi.org/10.5281/zenodo.23568668)
+
 **[Concept-Based Explainable AI in Retinal Imaging: Core Concepts, Techniques, and Challenges](https://doi.org/10.1007/s10278-026-02391-3)**<br>
 Mohadeseh Mollapour Papkyadeh, **Koorosh Aslansefat**, Bhupesh Kumar Mishra, Tejal Shah, Zhibao Mian, Mehran Hosseinalizadeh<br>
 *Journal of Imaging Informatics in Medicine, 2026.* [DOI / source](https://doi.org/10.1007/s10278-026-02391-3)
@@ -66,10 +70,6 @@ Parvin Ghaffarzadeh, Debarati Bhunia Chakraborty, **Koorosh Aslansefat**, Ali Do
 **[Exploring the Impact of Skin Color on Skin Lesion Segmentation](https://doi.org/10.48550/arxiv.2603.29694)**<br>
 Kuniko Paxton, Medina Kapo, Amila Akagić, **Koorosh Aslansefat**, Dhavalkumar Thakker, Yiannis I. Papadopoulos<br>
 *arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2603.29694)
-
-**[Evaluating a Multi-Agent Voice-Enabled Smart Speaker for Care Homes: A Safety-Focused Framework](https://doi.org/10.48550/arxiv.2603.23625)**<br>
-Zeinab Dehghani, Rameez Raja Kureshi, **Koorosh Aslansefat**, Faezeh Alsadat Abedi, Dhavalkumar Thakker, Lisa Greaves, Bhupesh Kumar Mishra, Baseer Ahmad, et al.<br>
-*arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2603.23625)
 
 </div>
 
