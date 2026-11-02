@@ -56,7 +56,7 @@ Louis Donaldson, Connor Walker, **Koorosh Aslansefat**, Yiannis Papadopoulos<br>
 *arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2607.00972)
 
 **[Mitigating Illumination-Induced Domain Shift in Night-Time Pedestrian Detection for Intelligent Vehicles using Annotation-Preserving Diffusion Augmentation](https://doi.org/10.48550/arxiv.2605.16406)**<br>
-Franky George, Khalid, Muhammad, Adil Khan, **Koorosh Aslansefat**<br>
+Franky George, Muhammad Khalid, Adil Khan, **Koorosh Aslansefat**<br>
 *arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2605.16406)
 
 **[Risk Assessments for Evasive Emergency Maneuvers in Autonomous Vehicles](https://doi.org/10.48550/arxiv.2604.26050)**<br>
