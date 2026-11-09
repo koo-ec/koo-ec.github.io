@@ -11,6 +11,10 @@ Selected publications are listed below. A full and frequently updated list is av
 <!-- AUTO_PUBLICATIONS_LIST_START -->
 <div class="publication-list" markdown>
 
+**[More Agents, More Reliable? System-Level Reliability of Multi-Agent LLMs under Operational-Profile Uncertainty](https://doi.org/10.48550/arxiv.2611.07140)**<br>
+Burkay Tunçtürk, **Koorosh Aslansefat**, Yiannis I. Papadopoulos, Bao Nguyen<br>
+*arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2611.07140)
+
 **[EMRM V&V Framework: HARA-STPA-FSM Scenario Validation](https://doi.org/10.5281/zenodo.23568668)**<br>
 Aliasghar Arab, Milad Khaleghi, **Koorosh Aslansefat**, Yashar Mousavi, Alireza Abbaspour<br>
 *Zenodo (CERN European Organization for Nuclear Research), 2026.* [DOI / source](https://doi.org/10.5281/zenodo.23568668)
@@ -29,7 +33,7 @@ Septavera Sharvia, Anuoluwapo Akintoye, **Koorosh Aslansefat**, Yiannis I. Papad
 
 **[Runtime Uncertainty Monitoring for LLM-Based Multi-agent Systems Using Bayesian Networks](https://doi.org/10.1007/978-3-032-35506-5_53)**<br>
 Bart Custers, **Koorosh Aslansefat**<br>
-*Lecture notes in computer science, 2026.* [DOI / source](https://doi.org/10.1007/978-3-032-35506-5_53)
+*Lecture notes in computer science, 2026.* [DOI / source](https://doi.org/10.1007/978-3-032-35506-5_53) Cited by 1 in OpenAlex.
 
 **[EcoFair: Energy-efficient inference routing for edge AI under data degradation](https://doi.org/10.1016/j.adhoc.2026.104403)**<br>
 Mostafa Anoosha, Dhavalkumar Thakker, Kuniko Paxton, **Koorosh Aslansefat**, Bhupesh Kumar Mishra, Baseer Ahmad, Rameez Raja Kureshi<br>
@@ -45,7 +49,7 @@ Kuniko Paxton, Amila Akagić, **Koorosh Aslansefat**, Dhavalkumar Thakker, Yiann
 
 **[ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI](https://doi.org/10.48550/arxiv.2607.09649)**<br>
 Mohadeseh Mollapour, **Koorosh Aslansefat**, Zeinab Dehghani, Bhupesh Kumar Mishra, Tejal Shah, Zhibao Mian<br>
-*arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2607.09649)
+*arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2607.09649) Cited by 1 in OpenAlex.
 
 **[When Words Move Markets: Interpretable Behavioural and Robustness Analysis of LLMs for Financial Sentiment Reasoning via Local Perturbation Explanations](https://doi.org/10.1007/978-3-032-29532-3_19)**<br>
 Sania Verma, **Koorosh Aslansefat**, Joyjit Chatterjee, Akash Marar, Anu Mehra, Aisha Ekundayo<br>
@@ -53,7 +57,7 @@ Sania Verma, **Koorosh Aslansefat**, Joyjit Chatterjee, Akash Marar, Anu Mehra, 
 
 **[Bayesian Uncertainty Propagation for Agentic RAG Pipelines: A Proof-of-Concept Study on Multi-Hop Question Answering](https://doi.org/10.48550/arxiv.2607.00972)**<br>
 Louis Donaldson, Connor Walker, **Koorosh Aslansefat**, Yiannis Papadopoulos<br>
-*arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2607.00972)
+*arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2607.00972) Cited by 2 in OpenAlex.
 
 **[Mitigating Illumination-Induced Domain Shift in Night-Time Pedestrian Detection for Intelligent Vehicles using Annotation-Preserving Diffusion Augmentation](https://doi.org/10.48550/arxiv.2605.16406)**<br>
 Franky George, Muhammad Khalid, Adil Khan, **Koorosh Aslansefat**<br>
@@ -61,15 +65,11 @@ Franky George, Muhammad Khalid, Adil Khan, **Koorosh Aslansefat**<br>
 
 **[Risk Assessments for Evasive Emergency Maneuvers in Autonomous Vehicles](https://doi.org/10.48550/arxiv.2604.26050)**<br>
 Aliasghar Arab, Milad Khaleghi, **Koorosh Aslansefat**<br>
-*arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2604.26050)
+*arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2604.26050) Cited by 1 in OpenAlex.
 
 **[A Multi-Modal Dataset for Ground Reaction Force Estimation Using Consumer Wearable Sensors](https://doi.org/10.1038/s41597-026-07183-6)**<br>
 Parvin Ghaffarzadeh, Debarati Bhunia Chakraborty, **Koorosh Aslansefat**, Ali Dostan, Yiannis I. Papadopoulos<br>
 *Scientific Data, 2026.* [DOI / source](https://doi.org/10.1038/s41597-026-07183-6) Cited by 2 in OpenAlex.
-
-**[Exploring the Impact of Skin Color on Skin Lesion Segmentation](https://doi.org/10.48550/arxiv.2603.29694)**<br>
-Kuniko Paxton, Medina Kapo, Amila Akagić, **Koorosh Aslansefat**, Dhavalkumar Thakker, Yiannis I. Papadopoulos<br>
-*arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2603.29694)
 
 </div>
 
