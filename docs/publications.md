@@ -57,7 +57,11 @@ Sania Verma, **Koorosh Aslansefat**, Joyjit Chatterjee, Akash Marar, Anu Mehra, 
 
 **[Bayesian Uncertainty Propagation for Agentic RAG Pipelines: A Proof-of-Concept Study on Multi-Hop Question Answering](https://doi.org/10.48550/arxiv.2607.00972)**<br>
 Louis Donaldson, Connor Walker, **Koorosh Aslansefat**, Yiannis Papadopoulos<br>
-*arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2607.00972) Cited by 2 in OpenAlex.
+*arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2607.00972) Cited by 3 in OpenAlex.
+
+**[Leveraging Generative Models to Produce Safety Artifacts: A Proof-of-Concept for Autonomous Driving](https://doi.org/10.1007/978-3-032-24804-6_29)**<br>
+Zhibao Mian, **Koorosh Aslansefat**<br>
+*Lecture notes in networks and systems, 2026.* [DOI / source](https://doi.org/10.1007/978-3-032-24804-6_29)
 
 **[Mitigating Illumination-Induced Domain Shift in Night-Time Pedestrian Detection for Intelligent Vehicles using Annotation-Preserving Diffusion Augmentation](https://doi.org/10.48550/arxiv.2605.16406)**<br>
 Franky George, Muhammad Khalid, Adil Khan, **Koorosh Aslansefat**<br>
@@ -66,10 +70,6 @@ Franky George, Muhammad Khalid, Adil Khan, **Koorosh Aslansefat**<br>
 **[Risk Assessments for Evasive Emergency Maneuvers in Autonomous Vehicles](https://doi.org/10.48550/arxiv.2604.26050)**<br>
 Aliasghar Arab, Milad Khaleghi, **Koorosh Aslansefat**<br>
 *arXiv (Cornell University), 2026.* [DOI / source](https://doi.org/10.48550/arxiv.2604.26050) Cited by 1 in OpenAlex.
-
-**[A Multi-Modal Dataset for Ground Reaction Force Estimation Using Consumer Wearable Sensors](https://doi.org/10.1038/s41597-026-07183-6)**<br>
-Parvin Ghaffarzadeh, Debarati Bhunia Chakraborty, **Koorosh Aslansefat**, Ali Dostan, Yiannis I. Papadopoulos<br>
-*Scientific Data, 2026.* [DOI / source](https://doi.org/10.1038/s41597-026-07183-6) Cited by 2 in OpenAlex.
 
 </div>
 
